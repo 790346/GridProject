@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=gridCoordinate\ radius\ gridComponent
+comment0.target=GridBot(GridCoordinate,\ int,\ GridComponent)
+numComments=1

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=leftX\ topY\ dimension\ state
+comment0.target=GridCell(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getState()
+comment2.params=s
+comment2.target=void\ setState(int)
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+numComments=4
